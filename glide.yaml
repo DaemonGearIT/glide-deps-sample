@@ -1,0 +1,3 @@
+package: glide-deps-sample
+import:
+- package: github.com/fatih/color
