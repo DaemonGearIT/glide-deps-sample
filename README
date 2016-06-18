@@ -1,6 +1,6 @@
 # glide-deps-sample
 
-A  small sample of use color module installed with glide dependencie manager (go15 vendoring experiment)
+A  small sample of use [color](https://github.com/fatih/color) module installed with glide dependencie manager (go15 vendoring experiment)
 
 ## Requirements
 
